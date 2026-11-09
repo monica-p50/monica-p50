@@ -1,6 +1,6 @@
 # Hi, I'm Monica P
 
-**Network Security Engineer | Cyber Security** - India
+**Network Security Engineer | Cyber Security** - Nagercoil, India
 
 I design, build and document office network security: firewalls and access control on MikroTik, remote-access VPNs, and log monitoring with Wazuh and Sysmon. CPT certified (RedTeam Academy, 2026).
 
@@ -14,7 +14,7 @@ I design, build and document office network security: firewalls and access contr
 | [home-vpn-wireguard-mikrotik](https://github.com/monica-p50/home-vpn-wireguard-mikrotik) | Home VPN for a small office with admin-only LAN access, firewall rules and a monitoring tunnel | WireGuard, RouterOS |
 | [office-network-access-control-mikrotik](https://github.com/monica-p50/office-network-access-control-mikrotik) | Hotspot login, company-PC bypass bindings, DHCP/DNS, firewall, NAT and two-line failover | MikroTik hEX, RouterOS 7 |
 | [network-vulnerability-assessment-nmap](https://github.com/monica-p50/network-vulnerability-assessment-nmap) | Vulnerability assessment of a 20+ host network with a prioritised remediation plan | Nmap, Kali Linux |
-| [low-cost-ai-embedded-disaster-response](https://github.com/monica-p50/low-cost-ai-embedded-disaster-response) | ESP32 early warning for fire, flood, landslide and earthquake with GPS, voice alert and phone notifications | ESP32, Blynk, Arduino |
+| [embedded-disaster-response-system](https://github.com/monica-p50/embedded-disaster-response-system) | ESP32 early warning for fire, flood, landslide and earthquake with GPS, voice alert and phone notifications | ESP32, Blynk, Arduino |
 
 ## Skills
 
